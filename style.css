@@ -105,3 +105,6 @@ body.dark-mode .habilidades li {
   background-color: #263238;
   color: #4dd0e1;
 }
+.negrito {
+  font-weight: bold;
+}
